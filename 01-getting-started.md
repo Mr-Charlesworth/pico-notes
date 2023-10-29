@@ -51,7 +51,9 @@ python -m venv venv
   - On Mac/Linux: source venv/bin/activate
 - Close the terminal and open a new one (Click the bin icon in terminal window top right corner, then Terminal > New Terminal)
 - Ensure VSCode is now using your virtual environment:
+
 ![vscode-using-venv](./vscode-venv.png)
+
 - Install pipkin
 ```
 pip install pipkin
